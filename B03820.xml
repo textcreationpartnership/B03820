@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The careless gallant: or, A farewel to sorrow. Whether these lines do please, or give offence, or shall be damn'd as neither wit nor sence, the poet is, for that, in no suspence, for it is all one a hundred years hence. To an excellent, and delightful tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674-1679?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03820</idno>
+            <idno type="STC">Wing J1021</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[44]</idno>
+            <idno type="EEBO-CITATION">99887613</idno>
+            <idno type="PROQUEST">ocm99887613</idno>
+            <idno type="VID">183244</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183244)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The careless gallant: or, A farewel to sorrow. Whether these lines do please, or give offence, or shall be damn'd as neither wit nor sence, the poet is, for that, in no suspence, for it is all one a hundred years hence. To an excellent, and delightful tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, J. Wright, and J. C[larke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>between 1674-1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>In two parts.</note>
+                  <note>Verse: "Let us sing and be merry, dance, joke, and rejoyce ..."</note>
+                  <note>Imperfect: cropped at foot, affecting imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="44" facs="tcp:183244:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>The Careleſs Gallant<g ref="char:punc">▪</g> 
+               <hi>Or,</hi> A farewel to Sorrow.</head>
+            <argument>
+               <l>Whether theſe Lines do pleaſe, or give offence,</l>
+               <l>Or ſhall be damn'd as neither wit nor ſence,</l>
+               <l>The Poet is, for that, in no ſuſpence,</l>
+               <l>For it is all one a hundred years hence.</l>
+            </argument>
+            <opener>To an Excellent, and delightful Tune.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>LEt us ſing and be merry, dance, joke, and rejoyce,</l>
+                  <l>With Claret and Sherry, Theorbo and voice,</l>
+                  <l>The changeable world to our joy is unjuſt,</l>
+                  <l>All treaſures uncertain,</l>
+                  <l>Then down with your duſt:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>In frolicks diſpoſe your pounds, ſhillings, and pence,</hi>
+                     </l>
+                     <l>
+                        <hi>For we ſhall be nothing a hundred years hence.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>We'l ſport, and be free, with <hi>Frank, Betty,</hi> and <hi>Dolly,</hi>
+                  </l>
+                  <l>Have Lobſters and Oyſters to cure melancholly,</l>
+                  <l>Fiſh-dinners will make a man ſpring like a Flea,</l>
+                  <l>Dame <hi>Venus,</hi> loves Lady,</l>
+                  <l>Was born of the Sea:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With her and with Bacchus we'l tickle the ſenſe,</hi>
+                     </l>
+                     <l>
+                        <hi>For we ſhall be paſt it a hundred years hence.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Your beautiful bit, who hath all eyes upon her,</l>
+                  <l>That her honeſty ſells for a hogo of honour,</l>
+                  <l>Whoſe lightneſs and brightneſs doth caſt ſuch a ſplender,</l>
+                  <l>That none are thought fit,</l>
+                  <l>But the Stars to attend her;</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Though now ſhe ſeems pleaſant, &amp; ſweet to the ſence</hi>
+                     </l>
+                     <l>
+                        <hi>Will be damnable mouldy a hundred years hence.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Your greateſt Grand-Seignior who rants it in riot,</l>
+                  <l>Not ſuffering his poor Chriſtian neighbours live quiet,</l>
+                  <l>Whoſe numberleſs army that to him belongs,</l>
+                  <l>Conſiſts of more Nations,</l>
+                  <l>Than <hi>Babel</hi> hath tongues:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Though numerous as duſt, yet in ſpight of defence,</hi>
+                     </l>
+                     <l>
+                        <hi>Shall all lie in aſhes a hundred years hence.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Your Vſurer that in the hundred takes twenty,</l>
+                  <l>Who wants in his wealth, and pines in his plenty,</l>
+                  <l>Lays up for a ſeaſon which he ſhall ne'r ſee,</l>
+                  <l>The year of one thouſand,</l>
+                  <l>Eight hundred and three;</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Shall have chang'd all his Baggs, his houſes and Rents,</hi>
+                     </l>
+                     <l>
+                        <hi>For a worm-eaten Coffin a hundred years hence</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The Second Part,</head>
+               <opener>to the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>YOur <hi>Chancery</hi>-Lawyer, who by conſcience thrives,</l>
+                  <l>In ſpinning a ſute to the length of three lives,</l>
+                  <l>A ſute which the Clyent doth wear out in ſlavery,</l>
+                  <l>whilſt pleader makes conſcience</l>
+                  <l>a cloak for his Knavery:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Can boaſt of his cunning but i'th preſent-Tence,</hi>
+                     </l>
+                     <l>
+                        <hi>For <hi>Non eſt inventus</hi> a hundred years hence.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Then why ſhould we turmoyl in cares and fears?</l>
+                  <l>And turn our tranquillity to ſighs and tears,</l>
+                  <l>Let's eat, drink, and play, e're the worms do corrupt us,</l>
+                  <l>For I ſay, that</l>
+                  <l>
+                     <q>
+                        <hi>Poſt mortem nulla voluptas:</hi>
+                     </q>
+                  </l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Let's deal with our Damſels, that we may from thence</hi>
+                     </l>
+                     <l>
+                        <hi>Have broods to ſuceed us a hundred years hence.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I never could gain ſatisfaction upon,</l>
+                  <l>Your dreams of a bliſs when we'r cold as as a ſtone,</l>
+                  <l>The Sages, call us Drunkards, Gluttons, &amp; wenchers,</l>
+                  <l>But we find ſuch Morſels,</l>
+                  <l>upon their own Trenchers:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>For <hi>Abigal, Hannah,</hi> and ſiſter <hi>Prudence,</hi>
+                        </hi>
+                     </l>
+                     <l>
+                        <hi>Will ſimper to nothing a hundred years hence.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The Pluſh-coated Quack that his fees to inlarge,</l>
+                  <l>Kills people with Licence, and at their own charge</l>
+                  <l>Who builds a vaſt ſtructure of ill gotten wealth,</l>
+                  <l>from the degrees of a Piſs-pot,</l>
+                  <l>and ruines of health:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Though treaſures of life he pretends to deſpence</hi>
+                     </l>
+                     <l>
+                        <hi>Shall be turn'd into mummy a hundred years hence.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The Butterflye Courtier that Peagant of ſtate,</l>
+                  <l>The Mouſe-trap of honour, and May-game of fat<gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>With all his ambitions, intrigues, and his tricks</l>
+                  <l>muſt dye like a Clown,</l>
+                  <l>and then drop into Stix;</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>His plots againſt death, are too ſlender a fence,</hi>
+                     </l>
+                     <l>
+                        <hi>For he'l be out of faſhion a hundred years hence.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Yea, the Poet himſelf that ſo loftily ſings,</l>
+                  <l>As he ſcorns any ſubjects, but <hi>Hero's</hi> or Kings,</l>
+                  <l>Muſt to the Capricio's of fortune ſubmit,</l>
+                  <l>and often be counted</l>
+                  <l>a fool for his 'wit,</l>
+                  <l>
+                     <hi>Thus beauty, wit, wealth, law learning, and ſenc<gap reason="illegible: page cropped" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>All come to nothing a hundred years hence.</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> 
+               <unclear>F. Coles, T. Vere, J. Wright, <hi>and</hi> J. Clarke</unclear> 
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
